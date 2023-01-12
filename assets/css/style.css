@@ -137,6 +137,13 @@ animation-fill-mode: forwards;
     height: 600px;
 }
 
+#welcome {
+
+    text-align: center;
+    margin: 20px;
+    size: 280%;
+}
+
 #left-about {
 
     padding-top: 30px;
