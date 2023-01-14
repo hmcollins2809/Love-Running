@@ -278,3 +278,20 @@ footer {
     color: #3a3a3a;
     
 }
+
+/* gallery page*/
+
+#photos {
+
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+
+}
+
+#photos > img {
+
+    width: 100%;
+}
+
